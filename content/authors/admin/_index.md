@@ -26,15 +26,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: Nankai University
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Univeristy of California, Berkeley (Spring Semester, 2021)
+    institution: IP for Entrepreneurs
+    year: 2021.1-2021.5
+  - course: University of Wisconsin Madison (Summer School, 2019)
+    institution: Corporate Finance
+    year: 2019.7-2019.8
+  - course: Nankai University 
+    institution: B.A (Hons) in Finance (Elite Class of Finance)
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiny Zhang is an undergraduate of Finance at the Nankai University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the ar Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
