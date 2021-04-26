@@ -72,6 +72,6 @@ highlight_name: false
 ---
 
 I'm an undergraduate student of Finance at Nankai University. Here I'm working extensively with professon Xin Geng on topics in Nonparametrics and Econmetrics, as well as working with my excellent alumini, Peilin Yang, on topics on Local Projection and VAR.
-During my college year, I worked as a data analyst inetrn with derivative-pricing team in Xiangcai Security from 2021.7 to 2021.10. I'm also expected to work as an analyst intern in China Banking and Insurance Regulatory Commission (CBIRC).
+During my college year, I worked as a data analyst inetrn with derivative-pricing team in Xiangcai Security from 2021.7 to 2021.10. I'm also expected to work as an analyst intern in China Banking and Insurance Regulatory Commission (CBIRC). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
