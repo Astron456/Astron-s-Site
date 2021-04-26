@@ -1,40 +1,39 @@
 ---
 # Display name
-title: Xinyi Zhang
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student in Finance
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nankai Univerisity
-  url: https://www.nankai.edu.cn/
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Derivative Pricing
-- Econometrics
-- Computation
-- Theory
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: Univeristy of California, Berkeley 
-    institution: IP for Entrepreneurs (Spring Semester, GPA: 4.0/4.0)
-    year: 2021.1-2021.5
-  - course: University of Wisconsin Madison (Summer School, GPA: 4.0/4.0)
-    institution: Corporate Finance
-    year: 2019.7-2019.8
-  - course: Nankai University 
-    institution: B.A (Hons) in Finance (Elite Class of Finance)
-    year: 2018-2022
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,7 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-I'm an undergraduate student of Finance at Nankai University. Here I'm working extensively with professon Xin Geng on topics in Nonparametrics and Econmetrics, as well as working with my excellent alumini, Peilin Yang, on topics on Local Projection and VAR.
-During my college year, I worked as a data analyst inetrn with derivative-pricing team in Xiangcai Security from 2021.7 to 2021.10. I'm also expected to work as an analyst intern in China Banking and Insurance Regulatory Commission (CBIRC). 
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
