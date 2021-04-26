@@ -28,13 +28,10 @@ education:
   courses:
   - course: Univeristy of California, Berkeley 
     institution: IP for Entrepreneurs (Spring Semester, GPA: 4.0/4.0), 2021.1-2021.5
-    year: ""
   - course: University of Wisconsin Madison (Summer School, GPA: 4.0/4.0)
     institution: Corporate Finance, 2019.7-2019.8
-    year: ""
   - course: Nankai University 
     institution: B.A (Hons) in Finance (Elite Class of Finance), 2018-22 (expected)
-    year: ""
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,7 +67,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
 I'm an undergraduate student of Finance at Nankai University. Here I'm working extensively with professon Xin Geng on topics in Nonparametrics and Econmetrics, as well as working with my excellent alumini, Peilin Yang, on topics on Local Projection and VAR.
 
 During my college year, I worked as a data analyst inetrn with derivative-pricing tem in Xiangcai Security from 2021.7 to 2021.10. I'm also expected to work as an analyst intern in China Banking and Insurance Regulatory Commission (CBIRC).
