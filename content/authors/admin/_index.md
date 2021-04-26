@@ -27,14 +27,14 @@ interests:
 education:
   courses:
   - course: Univeristy of California, Berkeley 
-    institution: IP for Entrepreneurs (Spring Semester, GPA: 4.0/4.0)
-    year: 2021.1-2021.5
+    institution: IP for Entrepreneurs (Spring Semester, GPA: 4.0/4.0), 2021.1-2021.5
+    year: ""
   - course: University of Wisconsin Madison (Summer School, GPA: 4.0/4.0)
-    institution: Corporate Finance
-    year: 2019.7-2019.8
+    institution: Corporate Finance, 2019.7-2019.8
+    year: ""
   - course: Nankai University 
-    institution: B.A (Hons) in Finance (Elite Class of Finance)
-    year: 2018
+    institution: B.A (Hons) in Finance (Elite Class of Finance), 2018-22 (expected)
+    year: ""
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
