@@ -26,10 +26,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Univeristy of California, Berkeley (Spring Semester, 2021)
-    institution: IP for Entrepreneurs
+  - course: Univeristy of California, Berkeley 
+    institution: IP for Entrepreneurs (Spring Semester, GPA: 4.0/4.0)
     year: 2021.1-2021.5
-  - course: University of Wisconsin Madison (Summer School, 2019)
+  - course: University of Wisconsin Madison (Summer School, GPA: 4.0/4.0)
     institution: Corporate Finance
     year: 2019.7-2019.8
   - course: Nankai University 
@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Xiny Zhang is an undergraduate of Finance at the Nankai University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the ar Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm an undergraduate student of Finance at Nankai University. Here I work extensively with professon Xin Geng on topics in Nonparametrics aHis research interests include distributed robotics, mobile computing and programmable matter. He leads the ar Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
