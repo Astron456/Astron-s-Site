@@ -1,26 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xinyi Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate Student in Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Nankai Univerisity
+  url: https://www.nankai.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Derivative Pricing
+- Econometrics
+- Computation
+- Theory
 
 # Education to show in About widget
 education:
@@ -31,7 +32,7 @@ education:
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
+  - course: Nankai University
     institution: Massachusetts Institute of Technology
     year: 2008
 
