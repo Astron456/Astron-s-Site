@@ -71,8 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-I'm an undergraduate student of Finance at Nankai University. Here I work extensively with professon Xin Geng on topics in Nonparametrics aHis research interests include distributed robotics, mobile computing and programmable matter. He leads the ar Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm an undergraduate student of Finance at Nankai University. Here I'm working extensively with professon Xin Geng on topics in Nonparametrics and Econmetrics, as well as working with my excellent alumini, Peilin Yang, on topics on Local Projection and VAR.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+During my college year, I worked as a data analyst inetrn with derivative-pricing tem in Xiangcai Security from 2021.7 to 2021.10. I'm also expected to work as an analyst intern in China Banking and Insurance Regulatory Commission (CBIRC).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
