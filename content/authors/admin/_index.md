@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinyi 
+title: Xinyi Zhang
 
 # Is this the primary user of the site?
 superuser: true
