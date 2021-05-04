@@ -28,13 +28,13 @@ education:
   courses:
   - course: University of California, Berkeley
     institution: Stanford University
-    year: 2012
+    year: 2021.1-2021.5
   - course: University of Wisconsin Madison
     institution: Massachusetts Institute of Technology
-    year: 2009
+    year: 2019.7-2019.8
   - course: Nankai University
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: B.A (Hons) of Finance
+    year: 2018-22(expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Hi, I'm a undergraduate student of Finance from Nankai Univeristy. Here I work intensively with my mentor professor Xin Geng on fields of Nonparametric Estimation and Econometrics. I also work with my excellent alumini Peilin Yang from Standford University on topics of Local Projection and VAR.
+Hi, I'm an undergraduate student of Finance from Nankai Univeristy. Here I work intensively with my mentor, professor Xin Geng, on fields of Nonparametric Estimation and Econometrics. I also work with my excellent alumini Peilin Yang from Standford University on topics of Local Projection and VAR.
 
 For my internship experience, I worked as a policy analyst in China Banking and Insurance Regulatory Commission (CBIRC). I also worked as a data analyst with derivative department from Xiangcai Security on topics of debt issue and option pricing.
 
