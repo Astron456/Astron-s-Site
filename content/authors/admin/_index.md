@@ -27,10 +27,10 @@ interests:
 education:
   courses:
   - course: University of California, Berkeley
-    institution: IP for Entrepreneurs (Spring Semester, Grade: A)
+    institution: aa
     year: 2021.1-2021.5
   - course: University of Wisconsin Madison
-    institution: Corporate Finance (Summer School, Grade: A)
+    institution: aa
     year: 2019.7-2019.8
   - course: Nankai University
     institution: B.A (Hons) of Finance
