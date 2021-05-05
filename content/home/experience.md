@@ -30,7 +30,7 @@ experience:
     date_end: '2019-08-15'
     description: |2-
         - Studied Corporate Finance
-        - GPA: A
+        - Grade A
   - title: Undergraduate Student Researcher
     company: Xin Geng Group, Nankai University
     company_url: https://finance.nankai.edu.cn/2020/1104/c19774a315334/page.htm
@@ -48,7 +48,7 @@ experience:
     date_end: '2021-5-30'
     description: |2-
         - Studied IP for Entrepreneurs
-        - GPA: A
+        - Grade A
   - title: Undergraduate Student Researcher
     company: Peilin Group, Standford University
     company_url: https://www.stanford.edu/
