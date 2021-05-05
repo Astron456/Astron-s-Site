@@ -39,16 +39,7 @@ experience:
     date_end: '2021-1-23'
     description: |2-
         - Studied Nadaraya-Watson 
-        - Obtained an efficient and systematic machine learning scheme, outperforming force-mapping schemes 
-  - title: Exchange Student
-    company: University of California, Berkeley
-    company_url: https://www.berkeley.edu/
-    location: California, United States
-    date_start: '2021-01-25'
-    date_end: '2021-5-30'
-    description: |2-
-        - Studied IP for Entrepreneurs
-        - Grade A
+        - Obtained an efficient and systematic machine learning scheme, outperforming force-mapping schemes
   - title: Exchange Student
     company: University of California, Berkeley
     company_url: https://www.berkeley.edu/
@@ -59,12 +50,31 @@ experience:
         - Studied IP for Entrepreneurs
         - Grade A
   - title: Undergraduate Student Researcher
-    company: Jian Liu Group, Peking University
-    company_url: http://jianliugroup.pku.edu.cn/
-    location: Beijing, China
-    date_start: '2018-07-01'
-    date_end: '2020-07-01'
+    company: Peilin Group, Standford University
+    company_url: https://www.stanford.edu/
+    location: California, United States
+    date_start: '2021-03-23'
+    date_end: '2020-06-28'
     description: |2-
-        - Analyzed integrators in path-integral molecular dynamics with symplectic geometry and discrete-time Lyapunov equations
-        - Designed a novel sampling scheme that can obtain more accurate statistics
+        - Developed an extended Lagrangian scheme together with Langevin thermostat for fluctuating charges
+        - Eliminated the iterative charge determination, the main bottleneck in reactive force fields like ReaxFF, and accurately reproduced statistic and dynamic properties
+        - A paper is published on this topic, see [the publication section](#publications).
+  - title: Data Analyst
+    company: Xiangcai Security, University of California, Los Angeles
+    company_url: https://www.xcsc.com/main/index/index.shtml
+    location: Shanghai, China
+    date_start: '2021-07-31'
+    date_end: '2021-9-30'
+    description: |2-
+        - Introduced a screened potential correction within the framework of time-dependent Bethe-Salpeter equation
+        - Improved the accuracy of optical properties
+  - title: Policy Analyst
+    company: China Banking and Insurance Regulatory Commission (CBIRC)
+    company_url: https://www.cbirc.gov.cn/cn/view/pages/index/index.html
+    location: Beijing, China
+    date_start: '2021-09-30'
+    date_end: '2021-12-01'
+    description: |2-
+        - Introduced a screened potential correction within the framework of time-dependent Bethe-Salpeter equation
+        - Improved the accuracy of optical properties
 ---
