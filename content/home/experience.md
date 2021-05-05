@@ -60,7 +60,7 @@ experience:
         - Eliminated the iterative charge determination, the main bottleneck in reactive force fields like ReaxFF, and accurately reproduced statistic and dynamic properties
         - A paper is published on this topic, see [the publication section](#publications).
   - title: Data Analyst
-    company: Xiangcai Security, University of California, Los Angeles
+    company: Xiangcai Security
     company_url: https://www.xcsc.com/main/index/index.shtml
     location: Shanghai, China
     date_start: '2021-07-31'
