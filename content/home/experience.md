@@ -40,16 +40,15 @@ experience:
     description: |2-
         - Studied Nadaraya-Watson 
         - Obtained an efficient and systematic machine learning scheme, outperforming force-mapping schemes
-  - title: Visiting Student Researcher
-    company: Teresa Head-Gordon Group, University of California, Berkeley
-    company_url: https://thglab.berkeley.edu/
+   - title:Exchange Student
+    company: University of California, Berkeley
+    company_url: https://www.berkeley.edu/
     location: California, United States
-    date_start: '2019-12-16'
-    date_end: '2020-03-07'
+    date_start: '2021-01-25'
+    date_end: '2021-5-30'
     description: |2-
-        - Developed an extended Lagrangian scheme together with Langevin thermostat for fluctuating charges
-        - Eliminated the iterative charge determination, the main bottleneck in reactive force fields like ReaxFF, and accurately reproduced statistic and dynamic properties
-        - A paper is published on this topic, see [the publication section](#publications).
+        - Studied IP for Entrepreneurs
+        - Grade A
   - title: Exchange Student Researcher
     company: Daniel Neuhauser Group, University of California, Los Angeles
     company_url: http://www.chem.ucla.edu/dept/Faculty/dxn/pages/home.html
