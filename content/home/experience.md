@@ -39,7 +39,16 @@ experience:
     date_end: '2021-1-23'
     description: |2-
         - Studied Nadaraya-Watson 
-        - Obtained an efficient and systematic machine learning scheme, outperforming force-mapping schemes
+        - Obtained an efficient and systematic machine learning scheme, outperforming force-mapping schemes 
+  - title:Exchange Student
+    company: University of California, Berkeley
+    company_url: https://www.berkeley.edu/
+    location: California, United States
+    date_start: '2021-01-25'
+    date_end: '2021-5-30'
+    description: |2-
+        - Studied IP for Entrepreneurs
+        - Grade A
   - title: Exchange Student
     company: University of California, Berkeley
     company_url: https://www.berkeley.edu/
