@@ -31,14 +31,14 @@ experience:
     description: |2-
         - Studied Corporate Finance
         - Grade A
-  - title: Visiting Student Researcher
-    company: Bin Zhang Group, Massachusetts Institute of Technology
-    company_url: http://zhanggroup.mit.edu/
-    location: Massachusetts, United States
-    date_start: '2020-06-21'
-    date_end: '2020-10-13'
+  - title: Undergraduate Student Researcher
+    company: Xin Geng Group, Nankai University
+    company_url: https://finance.nankai.edu.cn/2020/1104/c19774a315334/page.htm
+    location: Tianjin, China
+    date_start: '2020-09-05'
+    date_end: '2021-1-23'
     description: |2-
-        - Combined normalizing flows and contrastive learning for constructing coarse-grained force fields from atomistic data
+        - Studied Nadaraya-Watson 
         - Obtained an efficient and systematic machine learning scheme, outperforming force-mapping schemes
   - title: Visiting Student Researcher
     company: Teresa Head-Gordon Group, University of California, Berkeley
