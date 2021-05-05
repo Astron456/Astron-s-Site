@@ -49,15 +49,6 @@ experience:
     description: |2-
         - Studied IP for Entrepreneurs
         - Grade A
-  - title: Exchange Student Researcher
-    company: Daniel Neuhauser Group, University of California, Los Angeles
-    company_url: http://www.chem.ucla.edu/dept/Faculty/dxn/pages/home.html
-    location: California, United States
-    date_start: '2019-09-23'
-    date_end: '2019-12-15'
-    description: |2-
-        - Introduced a screened potential correction within the framework of time-dependent Bethe-Salpeter equation
-        - Improved the accuracy of optical properties
   - title: Undergraduate Student Researcher
     company: Jian Liu Group, Peking University
     company_url: http://jianliugroup.pku.edu.cn/
