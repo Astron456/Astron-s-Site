@@ -25,42 +25,42 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: 
-  date_start: "2020-09-01"
+  date_start: "2021-04-27"
   description: 
-  organization: Peking University
+  organization: Nankai Univeristy
   organization_url: 
-  title: Pacemaker to Merit Student & Wusi University Scholarship (Top 1%)
+  title: Outstanding in 2021 Nankai University Undergraduate Innovative Scientific Research Program
   url: 
-- certificate_url: http://en.mcm.edu.cn/html_en/node/f343840d6177d436255747b0e544b0aa.html
+- certificate_url: https://nktw.nankai.edu.cn/info/1019/1311.htm
+  date_end: 
+  date_start: "2021-04-21"
+  description: 
+  organization: Nankai Univeristy
+  organization_url: 
+  title: Second Prize in The 3rd "President's Cup" Innovation and Entrepreneurship Competition of Nankai University
+  url: 
+- certificate_url: 
+  date_end: 
+  date_start: "2021-03-27"
+  description: 
+  organization: Ernst & Young, Fudan University
+  organization_url: 
+  title: National Third Prize in Fudan-Ernst & Young Undergraduate Essay (Green Finance) Competition
+  url: 
+- certificate_url: 
   date_end: ""
-  date_start: "2019-12-01"
+  date_start: "2020-12-15"
   description: ""
-  organization: China Society for Industrial and Applied Mathematics
-  organization_url: http://en.mcm.edu.cn/
-  title: National Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling
+  organization: Jilin Provincial Society of Education
+  organization_url: http://www.jyxhedu.com/
+  title: National Second Prize in "Chinese Education Cup" Contemporary Undergraduate Mathematical Contest in Modeling (Top 2%)
   url: ""
 - certificate_url: 
   date_end: 
-  date_start: "2019-09-01"
+  date_start: "2020-12-01"
   description: 
-  organization: Peking University
+  organization: Nankai University
   organization_url: 
-  title: Pacemaker to Merit Student & National Scholarship (Top 1%)
-  url: 
-- certificate_url: 
-  date_end: 
-  date_start: "2019-05-01"
-  description: 
-  organization: Peking University Education Abroad Program
-  organization_url: 
-  title: Wanglaoji Scholarship
-  url: 
-- certificate_url: 
-  date_end: 
-  date_start: "2018-09-01"
-  description: 
-  organization: Peking University
-  organization_url: 
-  title: Merit Student & National Scholarship (Top 1%)
+  title: Innovation and Entrepreneurship Scholarship (Top 3%)
   url: 
 ---
