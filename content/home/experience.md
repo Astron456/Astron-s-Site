@@ -22,14 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Undergraduate Student Researcher
-    company: Weinan E Group, Peking University
-    company_url: http://www.bibdr.org/en/col.jsp?id=119
-    location: Beijing, China
-    date_start: '2020-10-01'
-    date_end: '2021-07-01'
+  - title: Exchange Student
+    company: Summer School, University of Wisconsin Madison
+    company_url: https://wsb.wisc.edu/directory/faculty/mark-laplante
+    location: Wisconsin, United States
+    date_start: '2019-7-15'
+    date_end: '2019-08-15'
     description: |2-
-        - Developing data-driven density functional models that can perform multi-objective learning in condensed phase systems
+        - Studied Corporate Finance
+        - Grade A
   - title: Visiting Student Researcher
     company: Bin Zhang Group, Massachusetts Institute of Technology
     company_url: http://zhanggroup.mit.edu/
