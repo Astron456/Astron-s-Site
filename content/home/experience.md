@@ -40,7 +40,7 @@ experience:
     description: |2-
         - Studied Nadaraya-Watson 
         - Obtained an efficient and systematic machine learning scheme, outperforming force-mapping schemes 
-  - title:Exchange Student
+  - title: Exchange Student
     company: University of California, Berkeley
     company_url: https://www.berkeley.edu/
     location: California, United States
