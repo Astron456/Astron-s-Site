@@ -26,7 +26,7 @@ experience:
     company: Summer School, University of Wisconsin Madison
     company_url: https://wsb.wisc.edu/directory/faculty/mark-laplante
     location: Wisconsin, United States
-    date_start: '2019-7-15'
+    date_start: '2019-07-15'
     date_end: '2019-08-15'
     description: |2-
         - Studied Corporate Finance
@@ -36,7 +36,7 @@ experience:
     company_url: https://finance.nankai.edu.cn/2020/1104/c19774a315334/page.htm
     location: Tianjin, China
     date_start: '2020-09-05'
-    date_end: '2021-1-23'
+    date_end: '2021-01-23'
     description: |2-
         - Studied Nadaraya-Watson 
         - Obtained an efficient and systematic machine learning scheme, outperforming force-mapping schemes
@@ -45,7 +45,7 @@ experience:
     company_url: https://www.berkeley.edu/
     location: California, United States
     date_start: '2021-01-25'
-    date_end: '2021-5-30'
+    date_end: '2021-05-30'
     description: |2-
         - Studied IP for Entrepreneurs
         - Grade A
@@ -64,7 +64,7 @@ experience:
     company_url: https://www.xcsc.com/main/index/index.shtml
     location: Shanghai, China
     date_start: '2021-07-31'
-    date_end: '2021-9-30'
+    date_end: '2021-09-30'
     description: |2-
         - Introduced a screened potential correction within the framework of time-dependent Bethe-Salpeter equation
         - Improved the accuracy of optical properties
