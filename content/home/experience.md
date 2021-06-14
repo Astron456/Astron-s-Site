@@ -40,7 +40,7 @@ experience:
     date_start: '2021-03-21'
     date_end: '2021-06-06'
     description: |2-
-        - Compared the equivalence between VAR and Local Projection when the true model is VAR (Jorda 2005), and the equivalence relationship (when h<p) between VAR and linear Local Projection when the true model is unknown (Mollor and Wolf, 2021).
+        - Compared the equivalence between VAR and Local Projection when the true model is VAR (Jorda 2005), and the
         - Found that eventhough Mollor and Wolf's paper did not put restrictions to the real model, it was based on a strict assumption, the Cholesky decomposition.
         - Wrote a detail note of this field. I used the high frequency data provided by Jarociński and Karada to construct an empirical test.
   - title: Part-time RA
