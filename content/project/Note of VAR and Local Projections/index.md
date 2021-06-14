@@ -9,7 +9,7 @@ authors:
 publication_types:
 - '1'
 abstract: 'Detail the conparison of VAR and LP under different true models. Use Jarocinski and Karada's high frequency data to visulize the key comparisons (Follow the idea of Mollor and Wolf)'
-featured: false
+featured: true
 publication: 'Working'
 url_pdf: https://github.com/Astron456/Note-of-VAR-and-Local-Projection
 ---
