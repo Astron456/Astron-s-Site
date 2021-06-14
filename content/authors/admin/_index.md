@@ -75,4 +75,4 @@ Hi, I'm an undergraduate student of Finance from Nankai Univeristy. My interest 
 
 For my personal research, I mainly focus on fields of VAR and local projections. Now, I'm working as a part-time research assistant in Peking University, Institute of New Structural Economics. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
