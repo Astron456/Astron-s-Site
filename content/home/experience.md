@@ -34,7 +34,7 @@ experience:
         - Use prior distribution proposed by Litterman (1986), combined with Gibbs sampling, to get the posterior distribution of the model.
         - Use the idea of TVAR to divide economic uncertainties into two stages and run regressions distinctively.
   - title: Cooperative Study
-    company: with Peilin Yang, Standford University
+    company: with Peilin Yang, Stanford University
     company_url: https://tteclinc.github.io/peilinyang//
     location: Tianjin, China
     date_start: '2021-03-21'
