@@ -73,6 +73,6 @@ highlight_name: false
 
 Hi, I'm an undergraduate student of Finance from Nankai Univeristy. My interest lies in Macroecomomics, Econometrics and Time Series. Here I worked intensively with assistant professor Tian Xia about the impact of the information effect in monetary policy on various Macroeconomy sectors under different states of economic uncertainty.
 
-For my internship experience, I worked as a policy analyst in China Banking and Insurance Regulatory Commission (CBIRC). I also worked as a data analyst with derivative department from Xiangcai Security on topics of debt issue and option pricing.
+For my personal research, I mainly focus on fields of VAR and local projections. Now, I'm working as a part-time research assistant in Peking University, Institute of New Structural Economics. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
