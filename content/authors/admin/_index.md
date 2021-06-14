@@ -14,27 +14,27 @@ organizations:
   url: https://www.nankai.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Macroeconomics, Econometrics and Derivative Pricing.
+bio: My research interests include Macroeconomics,Time Series and Econometrics.
 
 # Interests to show in About widget
 interests:
 - Macroeconomics
 - Econometrics
 - Computation
-- Derivative Pricing
+- Time Series
 
 # Education to show in About widget
 education:
   courses:
   - course: University of California, Berkeley
-    institution: IP for Entrepreneurs (Spring Semester, Grade A)
+    institution: IP for Entrepreneurs (Spring Semester, Grade 92.67/100)
     year: 2021.1-5
   - course: University of Wisconsin Madison
-    institution: Corporate Finance (Summer School, Grade A)
+    institution: Corporate Finance (Summer School, Grade 4.0/4,0)
     year: 2019.7-8
   - course: Nankai University
-    institution: B.A (Hons) of Finance
-    year: 2018-2022
+    institution: 
+    year: 2018-2022 (Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,16 +46,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/Yanchen82207509
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  # icon_pack: fas
+  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/Astron456
+# - icon: linkedin
+  # icon_pack: fab
+  # link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
