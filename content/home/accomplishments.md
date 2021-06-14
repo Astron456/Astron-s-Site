@@ -25,42 +25,34 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: 
-  date_start: "2021-04-27"
-  description: 
-  organization: Nankai Univeristy
-  organization_url: 
-  title: Outstanding in 2021 Nankai University Undergraduate Innovative Scientific Research Program
-  url: 
-- certificate_url: https://nktw.nankai.edu.cn/info/1019/1311.htm
-  date_end: 
-  date_start: "2021-04-21"
-  description: 
-  organization: Nankai Univeristy
-  organization_url: 
-  title: Second Prize in The 3rd "President's Cup" Innovation and Entrepreneurship Competition of Nankai University
-  url: 
-- certificate_url: 
-  date_end: 
   date_start: "2021-03-27"
   description: 
   organization: Ernst & Young, Fudan University
   organization_url: 
-  title: National Third Prize in Fudan-Ernst & Young Undergraduate Essay (Green Finance) Competition
+  title: Fudan- Ernst & Young National Student Green Finance Competition -- Third Prize
   url: 
-- certificate_url: 
-  date_end: ""
-  date_start: "2020-12-15"
-  description: ""
-  organization: Jilin Provincial Society of Education
-  organization_url: http://www.jyxhedu.com/
-  title: National Second Prize in "Chinese Education Cup" Contemporary Undergraduate Mathematical Contest in Modeling (Top 2%)
-  url: ""
 - certificate_url: 
   date_end: 
   date_start: "2020-12-01"
   description: 
   organization: Nankai University
   organization_url: 
-  title: Innovation and Entrepreneurship Scholarship (Top 3%)
+  title: Nankai University Innovation and Entrepreneurship Scholarship -- 2019-2020 recipient
+  url: 
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-12-15"
+  description: ""
+  organization: Jilin Provincial Society of Education
+  organization_url: 
+  title: Chinese Education Cup - National Mathematics Competition - Second Prize
+  url: ""
+- certificate_url: https://nktw.nankai.edu.cn/info/1019/1311.htm
+  date_end: 
+  date_start: "2021-04-21"
+  description: 
+  organization: Nankai Univeristy
+  organization_url: 
+  title: Finals for the Third Nankai University President's Cup Academic Innovation Competition -- Second Prize
   url: 
 ---
