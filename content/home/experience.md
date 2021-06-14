@@ -44,7 +44,7 @@ experience:
         - Found that eventhough Mollor and Wolf's paper did not put restrictions to the real model, it was based on a strict assumption -- the Cholesky decomposition.
         - Wrote a detail note of this field. I used the high frequency data provided by Jarocinski and Karada to construct an empirical test.
   - title: Part-time RA
-    company: Peiking University
+    company: Peking University
     company_url: https://www.pku.edu.cn/
     location: Beijing, China
     date_start: '2021-06-12'
