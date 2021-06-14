@@ -4,11 +4,11 @@ date = 2020-10-10T00:00:00
 layout = "project"
 
 # Project title.
-title = "ExtendedLagrangian (C++)"
+title = "National Undergraduate Academic Training Program"
 
 # Project summary to display on homepage.
 summary = """
- The code for stochastic extended dynamics paper. Contributed to the open source molecular simulation software [LAMMPS](http://lammps.sandia.gov/).
+ We use fixed effect model and Spatial Durbin model to discover the "double-spillover-effect" across Chinese regions .
  """
 
 # Tags: can be used for filtering projects.
@@ -16,5 +16,5 @@ summary = """
 # tags = ["School","AI","Web"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/tansongchen/ExtendedLagrangian"
+external_link = "https://github.com/Astron456/Green-Finance"
 +++
