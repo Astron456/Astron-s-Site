@@ -17,4 +17,5 @@ summary = """
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/Astron456/Note-of-VAR-and-Local-Projection"
+url_pdf: https://doi.org/10.1021/acs.jctc.0c00514
 +++
