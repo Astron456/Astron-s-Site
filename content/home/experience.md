@@ -35,7 +35,7 @@ experience:
         - Use the idea of TVAR to divide economic uncertainties into two stages and run regressions distinctively.
   - title: Cooperative Study
     company: with Peilin Yang, Standford University
-    company_url: 
+    company_url: https://tteclinc.github.io/peilinyang//
     location: Tianjin, China
     date_start: '2021-03-21'
     date_end: '2021-06-06'
