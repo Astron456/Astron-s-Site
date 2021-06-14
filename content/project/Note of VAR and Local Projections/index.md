@@ -9,7 +9,7 @@ publication_types:
 abstract: "Xinyi Zhang (I'm indebted toward Peilin Yang for the DSGE Structural Estimation in the Appendix)"
 featured: true
 publication: 'Working'
-link: uploads/xinyi_resume.pdf
+url_pdf: uploads/xinyi.resume.pdf
 ---
 
 
