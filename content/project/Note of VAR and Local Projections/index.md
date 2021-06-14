@@ -8,10 +8,7 @@ authors:
 - Xinyi Zhang (I'm indebted toward Peilin Yang for the DSGE Structural Estimation in the Appendix)
 publication_types:
 - '1'
-abstract: 'This note provides an overview of previous researches on Vector Autoregressions
-(VARs) and Local Projections (LPs). I will detail the equivalence of these two methods
-when the data generating process (DGP) follows the VAR process, and their approximate equivalence in the scheme under Plagborg-Møller and Wolf (2021) when the
-DGP is unknown. In addition, I use several extensive empirical examples in Macroeconomics to visualize some of the key comparisons in this article.'
+abstract: 'Detail the conparison of VAR and LP under different true models. Use Jarocinski and Karada's high frequency data to visulize the key comparisons (Follow the idea of Mollor and Wolf)'
 featured: false
 publication: 'Working'
 url_pdf: https://github.com/Astron456/Note-of-VAR-and-Local-Projection
