@@ -5,7 +5,7 @@ publishDate: '2020-10-12T13:36:27.550225Z'
 authors:
 - Xinyi Zhang (I'm indebted toward Peilin Yang for the DSGE Structural Estimation in the Appendix)
 publication_types:
-- '1'
+- '3'
 abstract: "Detail the conparison of VAR and LP under different true models. Use Jarocinski and Karada's high frequency data to visulize the key comparisons"
 featured: true
 publication: 'Working'
