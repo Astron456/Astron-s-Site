@@ -22,15 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Exchange Student
-    company: Summer School, University of Wisconsin Madison
-    company_url: https://wsb.wisc.edu/directory/faculty/mark-laplante
-    location: Wisconsin, United States
-    date_start: '2019-07-15'
-    date_end: '2019-08-15'
-    description: |2-
-        - Studied Corporate Finance
-        - Grade 4.0/4.0
   - title: Part-time RA
     company: Assistant Professor Tian Xia, Nankai University
     company_url: https://finance.nankai.edu.cn/2020/1104/c19774a315334/page.htm
@@ -42,15 +33,16 @@ experience:
         - Used the co-movement of high frequency federal fund future changes and S&P 500 indexes as symbol recognition to identify.
         - Use prior distribution proposed by Litterman (1986), combined with Gibbs sampling, to get the posterior distribution of the model.
         - Use the idea of TVAR to divide economic uncertainties into two stages and run regressions distinctively.
-  - title: Exchange Student
-    company: University of California, Berkeley
-    company_url: https://www.berkeley.edu/
-    location: California, United States
-    date_start: '2021-01-25'
-    date_end: '2021-05-30'
+   - title: Cooperative Study
+    company: with Peilin Yang, Standford University
+    company_url: 
+    location: Tianjin, China
+    date_start: '2021-03-21'
+    date_end: '2021-06-06'
     description: |2-
-        - Studied IP for Entrepreneurs
-        - Grade 92.67/100
+        - Compared the equivalence between VAR and Local Projection when the true model is VAR (Jorda 2005), and the equivalence relationship (when h<p) between VAR and linear Local Projection when the true model is unknown (Mollor and Wolf, 2021).
+        - Found that eventhough Mollor and Wolf's paper did not put restrictions to the real model, it was based on a strict assumption -- the Cholesky decomposition.
+        - Wrote a detail note of this field -- I used the high frequency data provided by Jarociński and Karada to construct an empirical test.
   - title: Part-time RA
     company: Peiking University
     company_url: https://www.pku.edu.cn/
