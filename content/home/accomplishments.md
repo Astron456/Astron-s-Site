@@ -27,7 +27,7 @@ item:
   date_end: 
   date_start: "2021-03-27"
   description: 
-  organization: Ernst & Young, Fudan University
+  organization:
   organization_url: 
   title: Fudan- Ernst & Young National Student Green Finance Competition -- Third Prize
   url: 
@@ -35,7 +35,7 @@ item:
   date_end: 
   date_start: "2020-12-01"
   description: 
-  organization: Nankai University
+  organization:
   organization_url: 
   title: Nankai University Innovation and Entrepreneurship Scholarship -- 2019-2020 recipient
   url: 
@@ -43,7 +43,7 @@ item:
   date_end: ""
   date_start: "2020-12-15"
   description: ""
-  organization: Jilin Provincial Society of Education
+  organization:
   organization_url: 
   title: Chinese Education Cup - National Mathematics Competition - Second Prize
   url: ""
@@ -51,7 +51,7 @@ item:
   date_end: 
   date_start: "2021-04-21"
   description: 
-  organization: Nankai Univeristy
+  organization:
   organization_url: 
   title: Finals for the Third Nankai University President's Cup Academic Innovation Competition -- Second Prize
   url: 
