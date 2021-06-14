@@ -47,7 +47,7 @@ item:
   organization_url: 
   title: Chinese Education Cup - National Mathematics Competition - Second Prize
   url: ""
-- certificate_url: https://nktw.nankai.edu.cn/info/1019/1311.htm
+- certificate_url: 
   date_end: 
   date_start: "2021-04-21"
   description: 
