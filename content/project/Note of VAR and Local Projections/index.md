@@ -10,7 +10,6 @@ abstract: "Xinyi Zhang (I'm indebted toward Peilin Yang for the DSGE Structural 
 featured: true
 publication: 'Working'
 url_pdf: uploads/xinyi_resume.pdf
-# Note of VAR and Local Projections/Note of VAR and Lcoal Projection.pdf 
 ---
 
 
