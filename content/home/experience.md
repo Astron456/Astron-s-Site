@@ -33,10 +33,20 @@ experience:
         - Used the co-movement of high frequency federal fund future changes and S&P 500 indexes as symbol recognition to identify.
         - Use prior distribution proposed by Litterman (1986), combined with Gibbs sampling, to get the posterior distribution of the model.
         - Use the idea of TVAR to divide economic uncertainties into two stages and run regressions distinctively.
+  - title: Cooperative Study
+    company: with Peilin Yang, Standford University
+    company_url: 
+    location: Tianjin, China
+    date_start: '2021-03-21'
+    date_end: '2021-06-06'
+    description: |2-
+        - Compared the equivalence between VAR and Local Projection when the true model is VAR (Jorda 2005), and the
+        - Found that eventhough Mollor and Wolf's paper did not put restrictions to the real model, it was based on a strict assumption, the Cholesky decomposition.
+        - Wrote a detail note of this field. I used the high frequency data provided by Jarocinski and Karada to construct an empirical test.
   - title: Part-time RA
     company: Peiking University
     company_url: https://www.pku.edu.cn/
-    location: Beijing China
+    location: Beijing, China
     date_start: '2021-06-12'
     date_end: ''
     description: |2-
