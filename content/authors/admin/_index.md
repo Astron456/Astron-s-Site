@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: xinyi_resume.pdf
+  link: uploads/xinyi_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,4 +75,4 @@ Hi, I'm an undergraduate student of Finance from Nankai Univeristy. My interest 
 
 For my personal research, I mainly focus on fields of VAR and local projections. Now, I'm working as a part-time research assistant in Peking University, Institute of New Structural Economics. 
 
-{{< icon name="download" pack="fas" >}} View Xinyi's {{< staticref "xinyi_resume.pdf" "newtab" >}}CV{{< /staticref >}} for further information.
+{{< icon name="download" pack="fas" >}} View Xinyi's {{< staticref "uploads/xinyi_resume.pdf" "newtab" >}}CV{{< /staticref >}} for further information.
