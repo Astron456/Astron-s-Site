@@ -9,9 +9,9 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Publications
-    url: '#publications'
-    weight: 30
+  # - name: Publications
+    # url: '#publications'
+    # weight: 30
   - name: Projects
     url: '#projects'
     weight: 40
@@ -22,7 +22,7 @@ main:
     url: '#contact'
     weight: 50
   - name: CV
-    url: '#about'
+    url: uploads/xinyi_resume.pdf
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
