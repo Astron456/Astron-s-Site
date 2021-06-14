@@ -30,16 +30,18 @@ experience:
     date_end: '2019-08-15'
     description: |2-
         - Studied Corporate Finance
-        - Grade A
-  - title: Undergraduate Student Researcher
-    company: Xin Geng Group, Nankai University
+        - Grade 4.0/4.0
+  - title: Part-time RA
+    company: Assistant Professor Tian Xia, Nankai University
     company_url: https://finance.nankai.edu.cn/2020/1104/c19774a315334/page.htm
     location: Tianjin, China
-    date_start: '2020-09-05'
-    date_end: '2021-01-23'
+    date_start: '2021-01-23'
+    date_end: '2021-06-10'
     description: |2-
-        - Studied Nadaraya-Watson 
-        - Obtained an efficient and systematic machine learning scheme, outperforming force-mapping schemes
+        - We try to study the impact of the information effect of monetary policy on various sectors of the Macro economy under different states of economic uncertainty. 
+        - Used the co-movement of high frequency federal fund future changes and S&P 500 indexes as symbol recognition to identify.
+        - Use prior distribution proposed by Litterman (1986), combined with Gibbs sampling, to get the posterior distribution of the model.
+        - Use the idea of TVAR to divide economic uncertainties into two stages and run regressions distinctively.
   - title: Exchange Student
     company: University of California, Berkeley
     company_url: https://www.berkeley.edu/
@@ -48,34 +50,15 @@ experience:
     date_end: '2021-05-30'
     description: |2-
         - Studied IP for Entrepreneurs
-        - Grade A
-  - title: Undergraduate Student Researcher
-    company: Peilin Group, Standford University
-    company_url: https://www.stanford.edu/
-    location: California, United States
-    date_start: '2021-03-23'
-    date_end: '2020-06-28'
+        - Grade 92.67/100
+  - title: Part-time RA
+    company: Peiking University
+    company_url: https://www.pku.edu.cn/
+    location: Beijing China
+    date_start: '2021-06-12'
+    date_end: ''
     description: |2-
-        - Developed an extended Lagrangian scheme together with Langevin thermostat for fluctuating charges
-        - Eliminated the iterative charge determination, the main bottleneck in reactive force fields like ReaxFF, and accurately reproduced statistic and dynamic properties
-        - A paper is published on this topic, see [the publication section](#publications).
-  - title: Data Analyst
-    company: Xiangcai Security
-    company_url: https://www.xcsc.com/main/index/index.shtml
-    location: Shanghai, China
-    date_start: '2021-07-31'
-    date_end: '2021-09-30'
-    description: |2-
-        - Introduced a screened potential correction within the framework of time-dependent Bethe-Salpeter equation
-        - Improved the accuracy of optical properties
-  - title: Policy Analyst
-    company: China Banking and Insurance Regulatory Commission (CBIRC)
-    company_url: https://www.cbirc.gov.cn/cn/view/pages/index/index.html
-    location: Beijing, China
-    date_start: '2021-09-30'
-    date_end: '2021-12-01'
-    description: |2-
-        - Introduced a screened potential correction within the framework of time-dependent Bethe-Salpeter equation
-        - Improved the accuracy of optical properties
+        - We are going to conduct an in-depth analysis of the factor endowments and comparative advantages of the enterprises in Yili, Xinjiang.
+        - Use the new structural economics policy analysis tools to make development recommendations for local governments.
 ---
 
