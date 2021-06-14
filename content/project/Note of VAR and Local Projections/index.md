@@ -8,7 +8,7 @@ title = "Note of VAR and Local Projection"
 
 # Project summary to display on homepage.
 summary = """
- Detail conparison of VAR and LP under different true model. Use Jarocinski and Karada's high frequency data to visulize the key comparison (Follow idea of Mollor and Wolf)
+ Detail conparison of VAR and LP under different true model. Use Jarocinski and Karada's high frequency data to visulize the key comparison (Follow the idea of Mollor and Wolf)
  """
 
 # Tags: can be used for filtering projects.
