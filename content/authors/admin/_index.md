@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Hi, I'm an undergraduate student of Finance from Nankai Univeristy. Here I work intensively with my mentor, professor Xin Geng, on fields of Nonparametric Estimation and Econometrics. I also work with my excellent alumini Peilin Yang from Standford University on topics of Local Projection and VAR.
+Hi, I'm an undergraduate student of Finance from Nankai Univeristy. My interest lies in Macroecomomics, Econometrics and Time Series. Here I worked intensively with assistant professor Tian Xia about the impact of the information effect in monetary policy on various Macroeconomy sectors under different states of economic uncertainty.
 
 For my internship experience, I worked as a policy analyst in China Banking and Insurance Regulatory Commission (CBIRC). I also worked as a data analyst with derivative department from Xiangcai Security on topics of debt issue and option pricing.
 
