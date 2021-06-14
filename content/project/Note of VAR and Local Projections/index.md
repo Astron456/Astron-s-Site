@@ -8,7 +8,7 @@ authors:
 - Xinyi Zhang (I'm indebted toward Peilin Yang for the DSGE Structural Estimation in the Appendix)
 publication_types:
 - '1'
-abstract: 'Detail the conparison of VAR and LP under different true models. Use Jarocinski and Karada's high frequency data to visulize the key comparisons (Follow the idea of Mollor and Wolf)'
+abstract: ''
 featured: false
 publication: 'Working'
 url_pdf: https://github.com/Astron456/Note-of-VAR-and-Local-Projection
