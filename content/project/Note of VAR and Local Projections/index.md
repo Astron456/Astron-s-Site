@@ -9,7 +9,7 @@ publication_types:
 abstract: "Xinyi Zhang (I'm indebted toward Peilin Yang for the DSGE Structural Estimation in the Appendix)"
 featured: true
 publication: 'Working'
-url_pdf: Note of VAR and Local Projections/Note of VAR and Lcoal Projection.pdf
+url_pdf: https://github.com/Astron456/Note-of-VAR-and-Local-Projection/blob/main/Note%20of%20VAR%20and%20Lcoal%20Projection.pdf
 ---
 
 
