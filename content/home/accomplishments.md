@@ -24,12 +24,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
+  date_end: ""
+  date_start: "2020-12-15"
+  description: ""
+  organization:
+  organization_url: 
+  title: Chinese Education Cup - National Mathematics Competition - Second Prize
+  url: ""
+- certificate_url: 
   date_end: 
-  date_start: "2021-03-27"
+  date_start: "2021-06-29"
   description: 
   organization:
   organization_url: 
-  title: Fudan- Ernst & Young National Student Green Finance Competition -- Third Prize
+  title: May Day Cup - National Mathematics Modelling Contest -- Second Prize
   url: 
 - certificate_url: 
   date_end: 
@@ -40,19 +48,11 @@ item:
   title: Nankai University Innovation and Entrepreneurship Scholarship -- 2019-2020 recipient
   url: 
 - certificate_url: 
-  date_end: ""
-  date_start: "2020-12-15"
-  description: ""
-  organization:
-  organization_url: 
-  title: Chinese Education Cup - National Mathematics Competition - Second Prize
-  url: ""
-- certificate_url: 
   date_end: 
-  date_start: "2021-04-21"
+  date_start: "2021-03-27"
   description: 
   organization:
   organization_url: 
-  title: Finals for the Third Nankai University President's Cup Academic Innovation Competition -- Second Prize
+  title: Fudan- Ernst & Young National Student Green Finance Competition -- Third Prize
   url: 
 ---
