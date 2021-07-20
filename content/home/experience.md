@@ -37,11 +37,11 @@ experience:
     company:Nankai University, School of Finance
     company_url: 
     location: Tianjin, China
-    date_start: 
-    date_end: 
+    date_start: ''
+    date_end: ''
     description: |2-
-        - Teaching Assistant of Economics Principles, to freshman students
-        - Teaching Assistant of Financial Econometrics, to junior students
+        - Teaching Assistant of Economics Principles (to freshman students)
+        - Teaching Assistant of Financial Econometrics (to junior students)
   - title: Part-time RA
     company: Peking University
     company_url: https://www.pku.edu.cn/
