@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Part-time RA
+  - title: Research Assistant
     company: Assistant Professor Tian Xia, Nankai University
     company_url: https://finance.nankai.edu.cn/2020/1104/c19774a315334/page.htm
     location: Tianjin, China
@@ -33,7 +33,16 @@ experience:
         - Used the co-movement of high frequency federal fund future changes and S&P 500 indexes as symbol recognition to identify.
         - Use prior distribution proposed by Litterman (1986), combined with Gibbs sampling, to get the posterior distribution of the model.
         - Use the idea of TVAR to divide economic uncertainties into two stages and run regressions distinctively.
-  - title: Part-time RA
+  - title: Teaching Assistant
+    company:Nankai University, School of Finance
+    company_url: 
+    location: Tianjin, China
+    date_start: ''
+    date_end: ''
+    description: |2-
+        - Teaching Assistant of Economics Principles to freshman students, 2019 Fall Semester
+        - Teaching Assistant of Financial Econometrics to junior students, 2021 Spring Semester
+  - title: Research Assistant
     company: Peking University
     company_url: https://www.pku.edu.cn/
     location: Beijing, China
