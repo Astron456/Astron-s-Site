@@ -33,15 +33,6 @@ experience:
         - Used the co-movement of high frequency federal fund future changes and S&P 500 indexes as symbol recognition to identify.
         - Use prior distribution proposed by Litterman (1986), combined with Gibbs sampling, to get the posterior distribution of the model.
         - Use the idea of TVAR to divide economic uncertainties into two stages and run regressions distinctively.
-  - title: Teaching Assistant
-    company:Nankai University, School of Finance
-    company_url: 
-    location: Tianjin, China
-    date_start: ''
-    date_end: ''
-    description: |2-
-        - Teaching Assistant of Economics Principles (to freshman students)
-        - Teaching Assistant of Financial Econometrics (to junior students)
   - title: Part-time RA
     company: Peking University
     company_url: https://www.pku.edu.cn/
