@@ -34,7 +34,7 @@ education:
     year: 2019.7-8
   - course: Nankai University
     institution: 
-    year: 2018-2022 (Expected)
+    year: 2018-2022 (Grade 90.29/100)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,8 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-Hi, I'm an undergraduate student of Finance from Nankai Univeristy. My interest lies in Macroecomomics, Econometrics and Time Series. Here I worked intensively with assistant professor Tian Xia about the impact of the information effect in monetary policy on various Macroeconomy sectors under different states of economic uncertainty.
+Hi, I'm an undergraduate student of Finance from Nankai Univeristy. My interest lies in Macroecomomics, Econometrics and Time Series. Here I worked intensively about the impact of the information effect in monetary policy on various Macroeconomy sectors under different states of economic uncertainty.
 
-For my personal research, I mainly focus on fields of VAR and local projections. Now, I'm working as a part-time research assistant in Peking University, Institute of New Structural Economics. 
+For my personal research, my other interest includes Asset Pricing and Development Economics. Now, I'm working as a part-time research assistant in Peking University, Institute of New Structural Economics. 
 
 {{< icon name="download" pack="fas" >}} View Xinyi's {{< staticref "uploads/xinyi_CV.pdf" "newtab" >}}CV{{< /staticref >}} for further information.
