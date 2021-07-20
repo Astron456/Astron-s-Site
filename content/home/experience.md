@@ -34,7 +34,7 @@ experience:
         - Use prior distribution proposed by Litterman (1986), combined with Gibbs sampling, to get the posterior distribution of the model.
         - Use the idea of TVAR to divide economic uncertainties into two stages and run regressions distinctively.
   - title: Teaching Assistant
-    company:Nankai University, School of Finance
+    company: Nankai University, School of Finance
     company_url: 
     location: Tianjin, China
     date_start: ''
