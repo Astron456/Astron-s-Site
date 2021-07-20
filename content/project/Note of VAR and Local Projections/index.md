@@ -17,5 +17,5 @@ summary = """
 # tags = ["School","AI","Web"]
 
 # Optional external URL for project (replaces project detail page).
-url_pdf: uploads/A Note of VAR and Local Projections.pdf
+
 +++
