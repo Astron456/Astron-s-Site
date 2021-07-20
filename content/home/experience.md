@@ -35,14 +35,14 @@ experience:
         - Use the idea of TVAR to divide economic uncertainties into two stages and run regressions distinctively.
   - title: Cooperative Study
     company: with Peilin Yang, Stanford University
-    company_url: https://tteclinc.github.io/peilinyang//
+    company_url: 
     location: Tianjin, China
     date_start: '2021-03-21'
     date_end: '2021-06-06'
     description: |2-
         - Compared the equivalence between VAR and Local Projection when the true model is VAR (Jorda 2005), and the equivalence relationship (when h<p) between VAR and linear Local Projection when the true model is unknown. (Mollor and Wolf, 2020)
-        - Found that eventhough Mollor and Wolf's paper did not put restrictions to the real model, it was based on a strict assumption -- the Cholesky decomposition.
-        - Wrote a detail note of this field. I used the high frequency data provided by Jarocinski and Karada to construct an empirical test.
+        - Wrote a detail study note of this field. I used the high frequency data provided by Jarocinski and Karada to construct an empirical test.
+        - Held lecture to more than 100+ students in course of Time-Series Analysis.
   - title: Part-time RA
     company: Peking University
     company_url: https://www.pku.edu.cn/
