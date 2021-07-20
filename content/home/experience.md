@@ -40,8 +40,8 @@ experience:
     date_start: 
     date_end: 
     description: |2-
-        - Teaching Assistant of Economics Principles (to freshman student)
-        - Teaching Assistant of Financial Econometrics (to junior student)
+        - Teaching Assistant of Economics Principles, to freshman students
+        - Teaching Assistant of Financial Econometrics, to junior students
   - title: Part-time RA
     company: Peking University
     company_url: https://www.pku.edu.cn/
