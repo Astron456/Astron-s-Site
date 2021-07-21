@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Hi, I'm an undergraduate student of Finance from Nankai Univeristy. My interest lies in Macroecomomics, Econometrics and Time Series. Here I worked intensively about the impact of the information effect in monetary policy on various Macroeconomy sectors under different states of economic uncertainty.
+Hi, I'm an undergraduate student of Finance from Nankai Univeristy. My interest lies in Macroecomomics, Econometrics and Time Series. Here I worked intensively with my mentor about the impact of the information effect in monetary policy on various Macroeconomy sectors under different states of economic uncertainty.
 
 For my personal research, my other interest includes Asset Pricing and Development Economics. Now, I'm working as a part-time research assistant in Peking University, Institute of New Structural Economics. 
 
