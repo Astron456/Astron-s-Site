@@ -43,13 +43,12 @@ experience:
         - We are going to conduct an in-depth analysis of the factor endowments and comparative advantages of the enterprises in Yili, Xinjiang.
         - Use the new structural economics policy analysis tools to make development recommendations for local governments.
   - title: Teaching Assistant
-    company: Nankai University, School of Finance
+    company: Nankai University
     company_url: https://finance.nankai.edu.cn/2020/1104/c19774a315334/page.htm
     location: Tianjin, China
-    date_start: ''
-    date_end: ''
+    date_start: '2019-09-01'
+    date_end: '2021-06-30'
     description: |2-
-        - Teaching Assistant of Economics Principles to freshman students, 2019 Fall Semester
-        - Teaching Assistant of Financial Econometrics to junior students, 2021 Spring Semester
----
+        - Teaching Assistant of Principles of Economics to freshman students, 2019 fall semester.
+        - Teaching Assistant of Financial Econometrics to junior students, 2021 spring semester
 
