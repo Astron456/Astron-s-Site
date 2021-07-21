@@ -35,7 +35,7 @@ experience:
         - Use the idea of TVAR to divide economic uncertainties into two stages and run regressions distinctively.
   - title: Teaching Assistant
     company: Nankai University, School of Finance
-    company_url: 
+    company_url: ''
     location: Tianjin, China
     date_start: ''
     date_end: ''
