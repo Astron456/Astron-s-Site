@@ -17,5 +17,6 @@ summary = """
 # tags = ["School","AI","Web"]
 
 # Optional external URL for project (replaces project detail page).
+url_pdf: uploads/xinyi_CV.pdf
 +++
 
