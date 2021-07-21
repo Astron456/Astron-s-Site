@@ -51,4 +51,4 @@ experience:
     description: |2-
         - Teaching Assistant of Principles of Economics to freshman students, 2019 fall semester.
         - Teaching Assistant of Financial Econometrics to junior students, 2021 spring semester
-
+---
