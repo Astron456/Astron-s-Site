@@ -75,4 +75,4 @@ Hi, I'm an undergraduate student of Finance from Nankai Univeristy. My interest 
 
 For my personal research, my other interest includes Asset Pricing and Development Economics. Now, I'm working as a part-time research assistant in Peking University, Institute of New Structural Economics. 
 
-{{< icon name="download" pack="fas" >}} View Xinyi's {{< staticref "uploads/xinyi_CV.pdf" "newtab" >}}CV{{< /staticref >}} for further information.
+{{< icon name="download" pack="fas" >}} View Xinyi's {{< staticref "uploads/Academic Transcript.pdf" "newtab" >}}Academic Transcript{{< /staticref >}} for further information.
