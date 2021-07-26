@@ -20,8 +20,8 @@ bio: My research interests include Macroeconomics,Time Series and Econometrics.
 interests:
 - Macroeconomics
 - Econometrics
-- Computation
-- Time Series
+- Development Economics
+- Asset Pricing
 
 # Education to show in About widget
 education:
