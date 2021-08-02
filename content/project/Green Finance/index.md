@@ -4,7 +4,7 @@ date = 2020-10-10T00:00:00
 layout = "project"
 
 # Project title.
-title = "Was Chinese Green Credit Driving the Transformation or Transfer of High-Polluting Enterprises?"
+title = "Was Chinese Green Credit Policy Driving the Transformation or Transfer of High-Polluting Enterprises?"
 
 # Project summary to display on homepage.
 summary = """
