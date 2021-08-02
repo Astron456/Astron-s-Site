@@ -18,5 +18,5 @@ summary = """
 # tags = ["School","AI","Web"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/Astron456/Green-Finance"
+url_pdf = "uploads/green_credit.pdf"
 +++
