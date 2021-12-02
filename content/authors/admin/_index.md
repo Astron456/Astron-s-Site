@@ -14,27 +14,27 @@ organizations:
   url: https://www.nankai.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Macroeconomics,Time Series and Econometrics.
+bio: My research interests include Game Theroy, Econometrics and Financial Engineering.
 
 # Interests to show in About widget
 interests:
-- Macroeconomics
+- Game Theory
 - Econometrics
-- Development Economics
+- Computation
 - Asset Pricing
 
 # Education to show in About widget
 education:
   courses:
   - course: University of California, Berkeley
-    institution: IP for Entrepreneurs (Spring Semester, Grade 92.67/100)
+    institution: Spring Semester
     year: 2021.1-5
   - course: University of Wisconsin Madison
-    institution: Corporate Finance (Summer School, Grade 4.0/4,0)
+    institution: Summer School
     year: 2019.7-8
   - course: Nankai University
     institution: 
-    year: 2018-2022 (Grade 90.29/100)
+    year: 2018-2022 (Grade 3.83/4.0)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,8 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-Hi, I'm an undergraduate student of Finance from Nankai Univeristy. My interest lies in Macroecomomics, Econometrics and Time Series. Here I worked intensively with my mentor about the impact of the information effect in monetary policy on various Macroeconomy sectors under different states of economic uncertainty.
+Hi, I'm an undergraduate student of Finance from Nankai Univeristy. My interest lies in Game Theory, Econometrics and Robotics Engineering. Here I worked intensively with my mentor about the impact of the monetary policy's information effect on various Macroeconomy sectors under different states of economic uncertainty.
 
-For my personal research, my other interest includes Asset Pricing and Development Economics. Now, I'm working as a part-time research assistant in Peking University, Institute of New Structural Economics. 
+For my personal research, my other interest includes Development Economics. Now, I'm working as a research fellow intern at Peking University, Institute of New Structural Economics. 
 
 {{< icon name="download" pack="fas" >}} View Xinyi's {{< staticref "uploads/Academic Transcript.pdf" "newtab" >}}Academic Transcript{{< /staticref >}} for further information.
