@@ -62,7 +62,7 @@ item:
   organization:
   organization_url: 
   title: Nankai University Innovation and Entrepreneurship Scholarship -- 2020-2021 recipient
- - certificate_url: 
+- certificate_url: 
   date_end: 
   date_start: "2021-12-01"
   description: 
