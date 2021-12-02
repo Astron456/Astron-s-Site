@@ -41,6 +41,14 @@ item:
   url: 
 - certificate_url: 
   date_end: 
+  date_start: "2017-10-30"
+  description: 
+  organization:
+  organization_url: 
+  title: China Physics Olympiad
+  url: 
+- certificate_url: 
+  date_end: 
   date_start: "2020-12-01"
   description: 
   organization:
@@ -49,10 +57,25 @@ item:
   url: 
 - certificate_url: 
   date_end: 
+  date_start: "2021-12-01"
+  description: 
+  organization:
+  organization_url: 
+  title: Nankai University Innovation and Entrepreneurship Scholarship -- 2020-2021 recipient
+ - certificate_url: 
+  date_end: 
+  date_start: "2021-12-01"
+  description: 
+  organization:
+  organization_url: 
+  title: Outstanding Academic Performamce Scholarship with Highest Honor -- 2020-2021 recipient
+  url: 
+- certificate_url: 
+  date_end: 
   date_start: "2021-03-27"
   description: 
   organization:
   organization_url: 
-  title: Fudan- Ernst & Young National Student Green Finance Competition -- Third Prize
+  title: Fudan- Ernst & Young National Student Green Finance Thesis Competition -- Top 10 in China
   url: 
 ---
