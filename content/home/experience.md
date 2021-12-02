@@ -23,17 +23,26 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Assistant Professor Tian Xia, Nankai University
+    company: Professor Tian Xia, Nankai University
     company_url: https://finance.nankai.edu.cn/2020/1104/c19774a315334/page.htm
     location: Tianjin, China
     date_start: '2021-01-23'
     date_end: '2021-06-10'
     description: |2-
+        - Studied China’s Investment impact on Africa’s democratization status over historical effect, infrastructure effect, substitution effect, and etc
+        - Conducted matching of Chinese investment projects in Africa (e.g building infrastructures like roads and railroads)
+  - title: Research Assistant
+    company: Professor David Yang, Harvard University
+    company_url: 
+    location: Massachusetts, China
+    date_start: '2021-07-15'
+    date_end: ''
+    description: |2-
         - We try to study the impact of the information effect of monetary policy on various sectors of the Macro economy under different states of economic uncertainty. 
         - Used the co-movement of high frequency federal fund future changes and S&P 500 indexes as symbol recognition to identify
         - Use prior distribution proposed by Litterman (1986), combined with Gibbs sampling, to get the posterior distribution of the model
         - Use the idea of TVAR to divide economic uncertainties into two stages and run regressions distinctively
-  - title: Research Assistant
+  - title: Research Fellow Intern
     company: Peking University
     company_url: https://www.pku.edu.cn/
     location: Beijing, China
