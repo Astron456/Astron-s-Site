@@ -42,7 +42,7 @@ experience:
     description: |2-
         - Studied China’s Investment impact on Africa’s democratization status over historical effect, infrastructure effect, substitution effect, and etc
         - Conducted matching of Chinese investment projects in Africa (e.g building infrastructures like roads and railroads)
-    - title: Collaborative Research
+  - title: Collaborative Research
     company: with Peilin Yang, Stanford University
     company_url: 
     location: California, United States
