@@ -33,11 +33,11 @@ education:
     institution: Summer School
     year: 2019.7-8
   - course: Nankai University
-    institution: 
-    year: 2018-2022 (Grade 3.83/4.0)
+    institution: B.Econ in Finance
+    year: 2018.9-2022.6 (Grade 90.29/100)
   - course: Columbia University
-    institution: 
-    year: 
+    institution: M.S in Data Science
+    year: 2022.8-2023.12
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
