@@ -30,51 +30,42 @@ experience:
     date_end: '2022-09'
     description: |2-
         - Proposed three-factor model to predict stock-bond correlation based on inflation shock, economic development shock and their correlation, analyzed the transformation of asset allocation under positive stock-bond correlation condition
-        - Executed Tableau to visualize price changes of Dollar, Gold, Brent Crude, U.S Treasury Bond, etc and divide them into leading assets and delayed assets
+        - Executed Matlab and Tableau to visualize price changes of Dollar, Gold, Brent Crude, U.S Treasury Bond, etc and divide them into leading assets and delayed assets
         - Wrote empirical report based on US monthly data from 01/1919-08/2022 to show real estate & PMI as prior indicators, and unemployment & CPI as delayed indicators during recession so as to argue against Waller’s opinion about soft landing
   - title: Economics Research Fellow Intern
     company: Peking University
     company_url: https://english.pku.edu.cn/
     location: Beijing, China
-    date_start: '2021-07-15'
-    date_end: ''
+    date_start: '2021-06'
+    date_end: '2021-12'
     description: |2-
-        - Studied China’s Investment impact on Africa’s democratization status over historical effect, infrastructure effect, substitution effect, and etc
-        - Conducted matching of Chinese investment projects in Africa (e.g building infrastructures like roads and railroads)
-  - title: Collaborative Research
-    company: with Peilin Yang, Stanford University
+        - Used Python to derive a GIFF model to identify potential industries in Yili Prefecture using import & expor records and macroeconomics indicators
+        - Conducted in-depth field study of more than 50 start-up enterprises in Yili, summarized Yili’s endowment conditions and comparative advantage, including resource status quo, industrial and employment development status, infrastructure, investment environment, development bottlenecks, and relevant policies
+  - title: Management Consulting PTA
+    company: Management Accenture Co., Ltd.
     company_url: 
-    location: California, United States
-    date_start: '2021-03-21'
-    date_end: ''
+    location: Beijing, China
+    date_start: '2020-08'
+    date_end: '2020-09'
     description: |2-
-        - Initialized an extension to the equivalence between Local Projection (LP) and Vector Autoregressions (VAR) in estimating the same impulse response function (Møller and Wolf, Econometrica); concluded that the conclusion in their paper relies heavily on Cholesky decomposition
-        - Constructed high frequency data by Karadi’s method to testify our assumption; conducted estimation with DSGE, SVAR-IV, LP-IV models
-  - title: Kaggle Challange
-    company: Bronze Medal
+        - Made strategies for a leading internet company to expand the medical information market through public welfare projects
+        - Summarized welfare project’s logic under O2O and B2C e-commerce model, executed case studies on 700+ medical projects
+  - title: Quantitative Research Intern
+    company: CSC Financial Co., Ltd.
     company_url: 
     location: 
-    date_start: '2021-07-01'
-    date_end: '2021-09-01'
+    date_start: '2019-06'
+    date_end: '2019-07'
     description: |2-
-        - Built 5 learning models based on Tensorflow, CLRP, Roberta-Base, Roberta-Large and SVM to predict the complexity of literary passages for grades 3-12 classroom use; leveraged Apex, AWP to improve training performance and integrated 5 models to reduce overfitting
-        - Assessed the performance of Naïve Bayes, K-Nearest Neighbor and Logistic Regression on scoring, covering metrics of accuracy, sensitivity, specificity, precision, Matthews correlation coefficient, and balanced classification rate
-        - Achieved “Kaggle CommonLit Readability Prize -- Bronze Medal”, received a total ranking of top 6%
-  - title: Research Fellow Intern
-    company: Peking University
-    company_url: https://www.pku.edu.cn/
-    location: Beijing, China
-    date_start: '2021-06-12'
-    date_end: ''
-    description: |2-
-        - Conducted in-depth field study of more than 50 start-up biomedical enterprises in Ili. Used Python for fuzzy identification of commodity names and Harmonized System code matching, and data cleaning and visualization of 1.5 million pieces of trade records
-        - Analyzed the endowment advantages, financial situation current pressures and potentials of Ili’s start-up bio-pharmaceutical and coal enterprises. Made first stage presentation based on the POCD framework
+        - Assisted the development of event-driven stock trading algorithms to guide transaction decision
+        - Leveraged SVM and random forest ML models to predict future return based on momentum alpha factors for stock selection, including alpha13, ADX, annual firm set growth rate, turnover return, bias turnover, etc
+        - Performed automated trading based on technical indicators and strategies, validated by backtesting on 5-year Chinese market
   - title: Teaching Assistant
     company: Nankai University
     company_url: https://finance.nankai.edu.cn/2020/1104/c19774a315334/page.htm
     location: Tianjin, China
-    date_start: '2019-09-01'
-    date_end: '2021-06-30'
+    date_start: '2019-09'
+    date_end: '2021-06'
     description: |2-
         - Teaching Assistant of <i>Principles of Economics</i> to freshman students, 2019 fall semester
         - Teaching Assistant of <i>Financial Econometrics</i> to junior students, 2021 spring semester
