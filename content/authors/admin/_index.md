@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Xinyi Zhang
+title: Yancheng Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student of Finance
+role: MS in Data Science at Columbia University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nankai University
-  url: https://www.nankai.edu.cn/
+- name: Columbia University
+  url: https://datascience.columbia.edu/education/programs/m-s-in-data-science/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Game Theroy, Econometrics and Financial Engineering.
+bio: My research interests include Quantitative Research, Data Science and Macroeconomics.
 
 # Interests to show in About widget
 interests:
-- Game Theory
-- Econometrics
-- Computation
+- Data Science
+- Quantitative Investment Research
+- Macroeconomics
 - Asset Pricing
 
 # Education to show in About widget
@@ -35,6 +35,9 @@ education:
   - course: Nankai University
     institution: 
     year: 2018-2022 (Grade 3.83/4.0)
+  - course: Columbia University
+    institution: 
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,7 +58,7 @@ social:
   # link: https://github.com/Astron456
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/xinyi-zhang-07b201215/
+  link: https://www.linkedin.cn/incareer/in/yancheng-zhang-07b201215
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,8 +74,6 @@ email: ""
 highlight_name: false
 ---
 
-Hi, I'm an undergraduate student of Finance from Nankai Univeristy. My interest lies in Game Theory, Econometrics and Robotics Engineering. Here I worked intensively with my mentor about the impact of the monetary policy's information effect on various Macroeconomy sectors under different states of economic uncertainty.
+Welcome to Yancheng Zhang's homepage! I am a MS of Data Science student at Columbia University. I recently graduated from Nankai University with a B.Econ in Finance with Honors. My career interests are centered in Data Science, Quantitative Investment, Asset Management, and Macroeconomics. During my past internships at top universities and financial firms, I have developed my skills in utilizing quantitative reasoning to make financial decisions and gained hands-on exposure to financial projects. I also strengthened my communication and leadership capabilities through working with teammates from diversified background. I'm looking forward to enhancing data analytics skill as well as improving professional skillset both in Columbia University and further internships.
 
-For my personal research, my other interest includes Development Economics. Now, I'm working as a research fellow intern at Peking University, Institute of New Structural Economics. 
-
-{{< icon name="download" pack="fas" >}} View Xinyi's {{< staticref "uploads/Academic Transcript.pdf" "newtab" >}}Academic Transcript{{< /staticref >}} for further information.
+{{< icon name="download" pack="fas" >}} View Yancheng's {{< staticref "uploads/Academic Transcript.pdf" "newtab" >}}Academic Transcript{{< /staticref >}} for further information.
