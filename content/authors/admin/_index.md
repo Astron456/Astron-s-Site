@@ -74,6 +74,8 @@ email: ""
 highlight_name: false
 ---
 
-Welcome to Yancheng Zhang's homepage! I am a MS of Data Science student at Columbia University. I recently graduated from Nankai University with a B.Econ in Finance with Honors. My career interests are centered in Data Science, Quantitative Investment, Asset Management, and Macroeconomics. During my past internships at top universities and financial firms, I have developed my skills in utilizing quantitative reasoning to make financial decisions and gained hands-on exposure to financial projects. I also strengthened my communication and leadership capabilities through working with teammates from diversified background. I'm looking forward to enhancing data analytics skill as well as improving professional skillset both in Columbia University and further internships.
+Welcome to Yancheng Zhang's homepage! I am a MS of Data Science student at Columbia University. I recently graduated from Nankai University with a B.Econ in Finance with Honors. My career interests are centered in Data Science, Quantitative Investment, Asset Management, and Macroeconomics.
+
+During my past internships at top universities and financial firms, I have developed my skills in utilizing quantitative reasoning to make financial decisions and gained hands-on exposure to financial projects. I also strengthened my communication and leadership capabilities through working with teammates from diversified background. I'm looking forward to enhancing data analytics skill as well as improving professional skillset both in Columbia University and further internships :).
 
 {{< icon name="download" pack="fas" >}} View Yancheng's {{< staticref "uploads/Academic Transcript.pdf" "newtab" >}}Academic Transcript{{< /staticref >}} for further information.
