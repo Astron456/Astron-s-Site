@@ -22,21 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: Professor Tian Xia, Nankai University
-    company_url: https://finance.nankai.edu.cn/2020/1104/c19774a315334/page.htm
-    location: Tianjin, China
-    date_start: '2021-01-23'
-    date_end: '2021-06-10'
+  - title: Asset Management Intern
+    company: Huatai Securities Co., Ltd.
+    company_url: https://www.htsc.com.cn/htzq/investor/en/about.jsp
+    location: Shanghai, China
+    date_start: '2022-06'
+    date_end: '2022-09'
     description: |2-
-        - We try to study the impact of the information effect of monetary policy on various sectors of the Macro economy under different states of economic uncertainty. 
-        - Used the co-movement of high frequency federal fund future changes and S&P 500 indexes as symbol recognition to identify
-        - Use prior distribution proposed by Litterman (1986), combined with Gibbs sampling, to get the posterior distribution of the model
-        - Use the idea of TVAR to divide economic uncertainties into two stages and run regressions distinctively
-  - title: Research Assistant
-    company: Professor David Yang, Harvard University
-    company_url: 
-    location: Massachusetts, United States
+        - Proposed three-factor model to predict stock-bond correlation based on inflation shock, economic development shock and their correlation, analyzed the transformation of asset allocation under positive stock-bond correlation condition
+        - Executed Tableau to visualize price changes of Dollar, Gold, Brent Crude, U.S Treasury Bond, etc and divide them into leading assets and delayed assets
+        - Wrote empirical report based on US monthly data from 01/1919-08/2022 to show real estate & PMI as prior indicators, and unemployment & CPI as delayed indicators during recession so as to argue against Waller’s opinion about soft landing
+  - title: Economics Research Fellow Intern
+    company: Peking University
+    company_url: https://english.pku.edu.cn/
+    location: Beijing, China
     date_start: '2021-07-15'
     date_end: ''
     description: |2-
