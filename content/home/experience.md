@@ -26,8 +26,8 @@ experience:
     company: Huatai Securities Co., Ltd.
     company_url: https://www.htsc.com.cn/htzq/investor/en/about.jsp
     location: Shanghai, China
-    date_start: '2022-06'
-    date_end: '2022-09'
+    # date_start: '2022-06'
+    # date_end: '2022-09'
     description: |2-
         - Proposed three-factor model to predict stock-bond correlation based on inflation shock, economic development shock and their correlation, analyzed the transformation of asset allocation under positive stock-bond correlation condition
         - Executed Matlab and Tableau to visualize price changes of Dollar, Gold, Brent Crude, U.S Treasury Bond, etc and divide them into leading assets and delayed assets
@@ -36,8 +36,8 @@ experience:
     company: Harvard University
     company_url: 
     location: 
-    date_start: '2021-08'
-    date_end: '2022-06'
+    # date_start: '2021-08'
+    # date_end: '2022-06'
     description: |2-
         - Analyzed data from the Ministry of Commerce and various searching engines, studied China’s Investment impact on Africa’s democratization status over historical effect, infrastructure effect, and substitution effect
         - Conducted micro-level matching of Chinese investment projects in Africa and Middle Asia (e.g building infrastructures like roads and railroads); constructed a time-series database for further regression analysis process
@@ -45,8 +45,8 @@ experience:
     company: Peking University
     company_url: https://english.pku.edu.cn/
     location: Beijing, China
-    date_start: '2021-06'
-    date_end: '2021-12'
+    # date_start: '2021-06'
+    # date_end: '2021-12'
     description: |2-
         - Used Python to derive a GIFF model to identify potential industries in Yili Prefecture using import & expor records and macroeconomics indicators
         - Conducted in-depth field study of more than 50 start-up enterprises in Yili, summarized Yili’s endowment conditions and comparative advantage, including resource status quo, industrial and employment development status, infrastructure, investment environment, development bottlenecks, and relevant policies
@@ -54,8 +54,8 @@ experience:
     company: Management Accenture Co., Ltd.
     company_url: 
     location: Beijing, China
-    date_start: '2020-08'
-    date_end: '2020-09'
+    # date_start: '2020-08'
+    # date_end: '2020-09'
     description: |2-
         - Made strategies for a leading internet company to expand the medical information market through public welfare projects
         - Summarized welfare project’s logic under O2O and B2C e-commerce model, executed case studies on 700+ medical projects
@@ -63,8 +63,8 @@ experience:
     company: CSC Financial Co., Ltd.
     company_url: 
     location: 
-    date_start: '2019-06'
-    date_end: '2019-07'
+    # date_start: '2019-06'
+    # date_end: '2019-07'
     description: |2-
         - Assisted the development of event-driven stock trading algorithms to guide transaction decision
         - Leveraged SVM and random forest ML models to predict future return based on momentum alpha factors for stock selection, including alpha13, ADX, annual firm set growth rate, turnover return, bias turnover, etc
@@ -73,8 +73,8 @@ experience:
     company: Nankai University
     company_url: https://finance.nankai.edu.cn/2020/1104/c19774a315334/page.htm
     location: Tianjin, China
-    date_start: '2019-09'
-    date_end: '2021-06'
+    # date_start: '2019-09'
+    # date_end: '2021-06'
     description: |2-
         - Teaching Assistant of <i>Principles of Economics</i> to freshman students, 2019 fall semester
         - Teaching Assistant of <i>Financial Econometrics</i> to junior students, 2021 spring semester
