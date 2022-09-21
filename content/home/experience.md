@@ -22,15 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching Assistant
-    company: Nankai University
+  - title: Asset Management Intern
+    company: Huatai Securities Co., Ltd.
     company_url:
-    location: Tianjin, China
-    date_start: '2019-09-01'
-    date_end: '2021-06-30'
+    location: Shanghai, China
+    date_start: '2022-06-22'
+    date_end: '2022-09-15'
     description: |2-
-        - Teaching Assistant of <i>Principles of Economics</i> to freshman students, 2019 fall semester
-        - Teaching Assistant of <i>Financial Econometrics</i> to junior students, 2021 spring semester
+        - Proposed three-factor model to predict stock-bond correlation based on inflation shock, economic development shock and their correlation, analyzed the transformation of asset allocation under positive stock-bond correlation condition
+        - Executed Matlab and Tableau to visualize price changes of Dollar, Gold, Brent Crude, U.S Treasury Bond, etc and divide them into leading assets and delayed assets
+        - Wrote empirical report based on US monthly data from 01/1919-08/2022 to show real estate & PMI as prior indicators, and unemployment & CPI as delayed indicators during recession so as to argue against Waller’s opinion about soft landing
 
   - title: Teaching Assistant
     company: Nankai University
