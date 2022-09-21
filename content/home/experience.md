@@ -53,6 +53,16 @@ experience:
         - Used Python to derive a GIFF model to identify potential industries in Yili Prefecture using import & expor records and macroeconomics indicators
         - Conducted in-depth field study of more than 50 start-up enterprises in Yili, summarized Yili’s endowment conditions and comparative advantage, including resource status quo, industrial and employment development status, infrastructure, investment environment, development bottlenecks, and relevant policies
 
+  - title: Management Consulting PTA
+    company: Accenture Co., Ltd.
+    company_url:
+    location: Beijing, China
+    date_start: '2020-08-31'
+    date_end: '2020-09-15'
+    description: |2-
+        - Made strategies for a leading internet company to expand the medical information market through public welfare projects
+        - Summarized welfare project’s logic under O2O and B2C e-commerce model, executed case studies on 700+ medical projects
+
   - title: Teaching Assistant
     company: Nankai University
     company_url:
