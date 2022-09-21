@@ -26,8 +26,8 @@ experience:
     company: Huatai Securities Co., Ltd.
     company_url:
     location: Shanghai, China
-    date_start: '2022-06-22'
-    date_end: '2022-09-15'
+    date_start: '2022-06'
+    date_end: '2022-09'
     description: |2-
         - Proposed three-factor model to predict stock-bond correlation based on inflation shock, economic development shock and their correlation, analyzed the transformation of asset allocation under positive stock-bond correlation condition
         - Executed Matlab and Tableau to visualize price changes of Dollar, Gold, Brent Crude, U.S Treasury Bond, etc and divide them into leading assets and delayed assets
@@ -37,8 +37,8 @@ experience:
     company: Nankai University
     company_url:
     location: Tianjin, China
-    date_start: '2019-09-01'
-    date_end: '2021-06-30'
+    date_start: '2019-09'
+    date_end: '2021-06'
     description: |2-
         - Teaching Assistant of <i>Principles of Economics</i> to freshman students, 2019 fall semester
         - Teaching Assistant of <i>Financial Econometrics</i> to junior students, 2021 spring semester
