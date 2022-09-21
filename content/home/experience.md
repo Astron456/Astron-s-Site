@@ -33,6 +33,16 @@ experience:
         - Executed Matlab and Tableau to visualize price changes of Dollar, Gold, Brent Crude, U.S Treasury Bond, etc and divide them into leading assets and delayed assets
         - Wrote empirical report based on US monthly data from 01/1919-08/2022 to show real estate & PMI as prior indicators, and unemployment & CPI as delayed indicators during recession so as to argue against Waller’s opinion about soft landing
 
+  - title: Part-time Research Assistant
+    company: Harvard University
+    company_url:
+    location: Cambridge, Massachusetts
+    date_start: '2021-08-15'
+    date_end: '2022-06-22'
+    description: |2-
+        - Teaching Assistant of <i>Principles of Economics</i> to freshman students, 2019 fall semester
+        - Teaching Assistant of <i>Financial Econometrics</i> to junior students, 2021 spring semester
+
   - title: Teaching Assistant
     company: Nankai University
     company_url:
