@@ -40,8 +40,8 @@ experience:
     date_start: '2021-08-15'
     date_end: '2022-06-22'
     description: |2-
-        - Teaching Assistant of <i>Principles of Economics</i> to freshman students, 2019 fall semester
-        - Teaching Assistant of <i>Financial Econometrics</i> to junior students, 2021 spring semester
+        - Analyzed data from the Ministry of Commerce and various searching engines, studied China’s Investment impact on Africa’s democratization status over historical effect, infrastructure effect, and substitution effect
+        - Conducted micro-level matching of Chinese investment projects in Africa and Middle Asia (e.g building infrastructures like roads and railroads); constructed a time-series database for further regression analysis process
 
   - title: Teaching Assistant
     company: Nankai University
