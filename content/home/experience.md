@@ -36,7 +36,7 @@ experience:
   - title: Part-time Research Assistant
     company: Harvard University
     company_url:
-    location: 
+    location: ''
     date_start: '2021-08-27'
     date_end: '2022-06-31'
     description: |2-
