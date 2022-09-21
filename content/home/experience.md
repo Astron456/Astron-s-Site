@@ -43,6 +43,16 @@ experience:
         - Analyzed data from the Ministry of Commerce and various searching engines, studied China’s Investment impact on Africa’s democratization status over historical effect, infrastructure effect, and substitution effect
         - Conducted micro-level matching of Chinese investment projects in Africa and Middle Asia (e.g building infrastructures like roads and railroads); constructed a time-series database for further regression analysis process
 
+  - title: Economics Research Fellow Intern
+    company: Peking University
+    company_url:
+    location: Beijing, China
+    date_start: '2021-06-22'
+    date_end: '2021-12-31'
+    description: |2-
+        - Used Python to derive a GIFF model to identify potential industries in Yili Prefecture using import & expor records and macroeconomics indicators
+        - Conducted in-depth field study of more than 50 start-up enterprises in Yili, summarized Yili’s endowment conditions and comparative advantage, including resource status quo, industrial and employment development status, infrastructure, investment environment, development bottlenecks, and relevant policies
+
   - title: Teaching Assistant
     company: Nankai University
     company_url:
