@@ -22,6 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Management Consulting PTA
+    company: Management Accenture Co., Ltd.
+    company_url: 
+    location: Beijing, China
+    date_start: '2020-08-01'
+    date_end: '2020-0915'
+    description: |2-
+        - Made strategies for a leading internet company to expand the medical information market through public welfare projects
+        - Summarized welfare project’s logic under O2O and B2C e-commerce model, executed case studies on 700+ medical projects
+  - title: Quantitative Research Intern
+    company: CSC Financial Co., Ltd.
+    company_url: 
+    location: 
+    date_start: '2019-06-01'
+    date_end: '2019-07-08'
+    description: |2-
+        - Assisted the development of event-driven stock trading algorithms to guide transaction decision
+        - Leveraged SVM and random forest ML models to predict future return based on momentum alpha factors for stock selection, including alpha13, ADX, annual firm set growth rate, turnover return, bias turnover, etc
+        - Performed automated trading based on technical indicators and strategies, validated by backtesting on 5-year Chinese market
   - title: Teaching Assistant
     company: Nankai University
     company_url:
